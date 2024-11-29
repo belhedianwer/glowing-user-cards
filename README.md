@@ -86,5 +86,5 @@ Anwer Awled Belhedi
 
 - Website: [anwer-awled-belhedi.com](https://anwer-awled-belhedi.com)
 - LinkedIn: [linkedin.com/in/aabyna](https://linkedin.com/in/aabyna)
-- GitHub: [github.com/aabyna](https://github.com/aabyna)
-- Project Link: [https://github.com/aabyna/glowing-user-cards](https://github.com/aabyna/glowing-user-cards)
+- GitHub: [github.com/belhedianwer](https://github.com/belhedianwer)
+- Project Link: [https://github.com/belhedianwer/glowing-user-cards](https://github.com/belhedianwer/glowing-user-cards)
